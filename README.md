@@ -20,10 +20,6 @@ This project performs text analysis on articles extracted from provided URLs. It
 
 1. Clone the repository:
 
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
 
 2. Install the required packages:
 
@@ -38,6 +34,7 @@ This project performs text analysis on articles extracted from provided URLs. It
    ```python
    import nltk
    nltk.download('punkt')
+   nltk.download('punkt_tab')
    nltk.download('cmudict')
    ```
 
