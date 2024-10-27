@@ -1,0 +1,172 @@
+2024-10-27 11:08:17,147 - ERROR - Attempt 1 failed for URL_ID Netclan20241017. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:08:18,856 - INFO - Article with URL_ID Netclan20241017 saved successfully.
+2024-10-27 11:08:23,092 - INFO - Article with URL_ID Netclan20241018 saved successfully.
+2024-10-27 11:08:26,846 - INFO - Article with URL_ID Netclan20241019 saved successfully.
+2024-10-27 11:08:31,088 - INFO - Article with URL_ID Netclan20241020 saved successfully.
+2024-10-27 11:08:34,970 - INFO - Article with URL_ID Netclan20241021 saved successfully.
+2024-10-27 11:08:39,137 - INFO - Article with URL_ID Netclan20241022 saved successfully.
+2024-10-27 11:08:42,903 - INFO - Article with URL_ID Netclan20241023 saved successfully.
+2024-10-27 11:08:47,156 - INFO - Article with URL_ID Netclan20241024 saved successfully.
+2024-10-27 11:08:50,890 - INFO - Article with URL_ID Netclan20241025 saved successfully.
+2024-10-27 11:08:56,402 - INFO - Article with URL_ID Netclan20241026 saved successfully.
+2024-10-27 11:09:01,639 - INFO - Article with URL_ID Netclan20241027 saved successfully.
+2024-10-27 11:09:04,019 - ERROR - Attempt 1 failed for URL_ID Netclan20241028. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:09:07,284 - INFO - Article with URL_ID Netclan20241028 saved successfully.
+2024-10-27 11:09:12,775 - INFO - Article with URL_ID Netclan20241029 saved successfully.
+2024-10-27 11:09:17,783 - INFO - Article with URL_ID Netclan20241030 saved successfully.
+2024-10-27 11:09:23,082 - INFO - Article with URL_ID Netclan20241031 saved successfully.
+2024-10-27 11:09:28,011 - INFO - Article with URL_ID Netclan20241032 saved successfully.
+2024-10-27 11:09:30,300 - ERROR - Attempt 1 failed for URL_ID Netclan20241033. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:09:33,599 - INFO - Article with URL_ID Netclan20241033 saved successfully.
+2024-10-27 11:09:38,613 - INFO - Article with URL_ID Netclan20241034 saved successfully.
+2024-10-27 11:09:43,800 - INFO - Article with URL_ID Netclan20241035 saved successfully.
+2024-10-27 11:09:46,081 - ERROR - Attempt 1 failed for URL_ID Netclan20241036. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:09:48,883 - INFO - Article with URL_ID Netclan20241036 saved successfully.
+2024-10-27 11:09:53,645 - INFO - Article with URL_ID Netclan20241037 saved successfully.
+2024-10-27 11:09:58,482 - INFO - Article with URL_ID Netclan20241038 saved successfully.
+2024-10-27 11:10:03,400 - INFO - Article with URL_ID Netclan20241039 saved successfully.
+2024-10-27 11:10:08,295 - INFO - Article with URL_ID Netclan20241040 saved successfully.
+2024-10-27 11:10:13,443 - INFO - Article with URL_ID Netclan20241041 saved successfully.
+2024-10-27 11:10:18,492 - INFO - Article with URL_ID Netclan20241042 saved successfully.
+2024-10-27 11:10:20,859 - ERROR - Attempt 1 failed for URL_ID Netclan20241043. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:10:24,042 - INFO - Article with URL_ID Netclan20241043 saved successfully.
+2024-10-27 11:10:29,391 - INFO - Article with URL_ID Netclan20241044 saved successfully.
+2024-10-27 11:10:34,513 - INFO - Article with URL_ID Netclan20241045 saved successfully.
+2024-10-27 11:10:39,790 - INFO - Article with URL_ID Netclan20241046 saved successfully.
+2024-10-27 11:10:44,890 - INFO - Article with URL_ID Netclan20241047 saved successfully.
+2024-10-27 11:10:50,339 - INFO - Article with URL_ID Netclan20241048 saved successfully.
+2024-10-27 11:10:55,205 - INFO - Article with URL_ID Netclan20241049 saved successfully.
+2024-10-27 11:11:00,054 - INFO - Article with URL_ID Netclan20241050 saved successfully.
+2024-10-27 11:11:05,502 - INFO - Article with URL_ID Netclan20241051 saved successfully.
+2024-10-27 11:11:10,587 - INFO - Article with URL_ID Netclan20241052 saved successfully.
+2024-10-27 11:11:16,269 - INFO - Article with URL_ID Netclan20241053 saved successfully.
+2024-10-27 11:11:21,135 - INFO - Article with URL_ID Netclan20241054 saved successfully.
+2024-10-27 11:11:23,519 - ERROR - Attempt 1 failed for URL_ID Netclan20241055. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:11:26,807 - INFO - Article with URL_ID Netclan20241055 saved successfully.
+2024-10-27 11:11:32,117 - INFO - Article with URL_ID Netclan20241056 saved successfully.
+2024-10-27 11:11:37,050 - INFO - Article with URL_ID Netclan20241057 saved successfully.
+2024-10-27 11:11:42,166 - INFO - Article with URL_ID Netclan20241058 saved successfully.
+2024-10-27 11:11:47,205 - INFO - Article with URL_ID Netclan20241059 saved successfully.
+2024-10-27 11:11:52,666 - INFO - Article with URL_ID Netclan20241060 saved successfully.
+2024-10-27 11:11:54,949 - ERROR - Attempt 1 failed for URL_ID Netclan20241061. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:11:58,514 - INFO - Article with URL_ID Netclan20241061 saved successfully.
+2024-10-27 11:12:03,485 - INFO - Article with URL_ID Netclan20241062 saved successfully.
+2024-10-27 11:12:08,463 - INFO - Article with URL_ID Netclan20241063 saved successfully.
+2024-10-27 11:12:13,563 - INFO - Article with URL_ID Netclan20241064 saved successfully.
+2024-10-27 11:12:19,062 - INFO - Article with URL_ID Netclan20241065 saved successfully.
+2024-10-27 11:12:23,995 - INFO - Article with URL_ID Netclan20241066 saved successfully.
+2024-10-27 11:12:28,794 - INFO - Article with URL_ID Netclan20241067 saved successfully.
+2024-10-27 11:12:33,705 - INFO - Article with URL_ID Netclan20241068 saved successfully.
+2024-10-27 11:12:36,011 - ERROR - Attempt 1 failed for URL_ID Netclan20241069. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:12:38,910 - INFO - Article with URL_ID Netclan20241069 saved successfully.
+2024-10-27 11:12:44,243 - INFO - Article with URL_ID Netclan20241070 saved successfully.
+2024-10-27 11:12:46,527 - ERROR - Attempt 1 failed for URL_ID Netclan20241071. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:12:49,843 - INFO - Article with URL_ID Netclan20241071 saved successfully.
+2024-10-27 11:12:54,792 - INFO - Article with URL_ID Netclan20241072 saved successfully.
+2024-10-27 11:12:59,858 - INFO - Article with URL_ID Netclan20241073 saved successfully.
+2024-10-27 11:13:05,690 - INFO - Article with URL_ID Netclan20241074 saved successfully.
+2024-10-27 11:13:10,657 - INFO - Article with URL_ID Netclan20241075 saved successfully.
+2024-10-27 11:13:16,991 - INFO - Article with URL_ID Netclan20241076 saved successfully.
+2024-10-27 11:13:23,222 - INFO - Article with URL_ID Netclan20241077 saved successfully.
+2024-10-27 11:13:28,341 - INFO - Article with URL_ID Netclan20241078 saved successfully.
+2024-10-27 11:13:33,688 - INFO - Article with URL_ID Netclan20241079 saved successfully.
+2024-10-27 11:13:35,985 - ERROR - Attempt 1 failed for URL_ID Netclan20241080. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:13:39,292 - INFO - Article with URL_ID Netclan20241080 saved successfully.
+2024-10-27 11:13:44,161 - INFO - Article with URL_ID Netclan20241081 saved successfully.
+2024-10-27 11:13:49,040 - INFO - Article with URL_ID Netclan20241082 saved successfully.
+2024-10-27 11:13:54,056 - INFO - Article with URL_ID Netclan20241083 saved successfully.
+2024-10-27 11:13:56,333 - ERROR - Attempt 1 failed for URL_ID Netclan20241084. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:13:56,692 - ERROR - Attempt 2 failed for URL_ID Netclan20241084. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:13:59,614 - INFO - Article with URL_ID Netclan20241084 saved successfully.
+2024-10-27 11:14:04,631 - INFO - Article with URL_ID Netclan20241085 saved successfully.
+2024-10-27 11:14:10,247 - INFO - Article with URL_ID Netclan20241086 saved successfully.
+2024-10-27 11:14:15,628 - INFO - Article with URL_ID Netclan20241087 saved successfully.
+2024-10-27 11:14:20,812 - INFO - Article with URL_ID Netclan20241088 saved successfully.
+2024-10-27 11:14:26,198 - INFO - Article with URL_ID Netclan20241089 saved successfully.
+2024-10-27 11:14:31,086 - INFO - Article with URL_ID Netclan20241090 saved successfully.
+2024-10-27 11:14:36,447 - INFO - Article with URL_ID Netclan20241091 saved successfully.
+2024-10-27 11:14:38,825 - ERROR - Attempt 1 failed for URL_ID Netclan20241092. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:14:41,746 - INFO - Article with URL_ID Netclan20241092 saved successfully.
+2024-10-27 11:14:47,047 - INFO - Article with URL_ID Netclan20241093 saved successfully.
+2024-10-27 11:14:52,328 - INFO - Article with URL_ID Netclan20241094 saved successfully.
+2024-10-27 11:14:57,188 - INFO - Article with URL_ID Netclan20241095 saved successfully.
+2024-10-27 11:15:03,694 - INFO - Article with URL_ID Netclan20241096 saved successfully.
+2024-10-27 11:15:08,631 - INFO - Article with URL_ID Netclan20241097 saved successfully.
+2024-10-27 11:15:13,935 - INFO - Article with URL_ID Netclan20241098 saved successfully.
+2024-10-27 11:15:18,883 - INFO - Article with URL_ID Netclan20241099 saved successfully.
+2024-10-27 11:15:23,992 - INFO - Article with URL_ID Netclan20241100 saved successfully.
+2024-10-27 11:15:26,348 - ERROR - Attempt 1 failed for URL_ID Netclan20241101. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:15:29,225 - INFO - Article with URL_ID Netclan20241101 saved successfully.
+2024-10-27 11:15:34,658 - INFO - Article with URL_ID Netclan20241102 saved successfully.
+2024-10-27 11:15:36,962 - ERROR - Attempt 1 failed for URL_ID Netclan20241103. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:15:39,898 - INFO - Article with URL_ID Netclan20241103 saved successfully.
+2024-10-27 11:15:44,927 - INFO - Article with URL_ID Netclan20241104 saved successfully.
+2024-10-27 11:15:50,167 - INFO - Article with URL_ID Netclan20241105 saved successfully.
+2024-10-27 11:15:55,139 - INFO - Article with URL_ID Netclan20241106 saved successfully.
+2024-10-27 11:16:00,121 - INFO - Article with URL_ID Netclan20241107 saved successfully.
+2024-10-27 11:16:05,121 - INFO - Article with URL_ID Netclan20241108 saved successfully.
+2024-10-27 11:16:10,037 - INFO - Article with URL_ID Netclan20241109 saved successfully.
+2024-10-27 11:16:14,936 - INFO - Article with URL_ID Netclan20241110 saved successfully.
+2024-10-27 11:16:17,223 - ERROR - Attempt 1 failed for URL_ID Netclan20241111. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:16:20,153 - INFO - Article with URL_ID Netclan20241111 saved successfully.
+2024-10-27 11:16:25,403 - INFO - Article with URL_ID Netclan20241112 saved successfully.
+2024-10-27 11:16:30,434 - INFO - Article with URL_ID Netclan20241113 saved successfully.
+2024-10-27 11:16:35,783 - INFO - Article with URL_ID Netclan20241114 saved successfully.
+2024-10-27 11:16:40,700 - INFO - Article with URL_ID Netclan20241115 saved successfully.
+2024-10-27 11:16:46,016 - INFO - Article with URL_ID Netclan20241116 saved successfully.
+2024-10-27 11:16:48,302 - ERROR - Attempt 1 failed for URL_ID Netclan20241117. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:16:51,523 - INFO - Article with URL_ID Netclan20241117 saved successfully.
+2024-10-27 11:16:56,367 - INFO - Article with URL_ID Netclan20241118 saved successfully.
+2024-10-27 11:17:02,248 - INFO - Article with URL_ID Netclan20241119 saved successfully.
+2024-10-27 11:17:07,278 - INFO - Article with URL_ID Netclan20241120 saved successfully.
+2024-10-27 11:17:12,696 - INFO - Article with URL_ID Netclan20241121 saved successfully.
+2024-10-27 11:17:17,579 - INFO - Article with URL_ID Netclan20241122 saved successfully.
+2024-10-27 11:17:22,929 - INFO - Article with URL_ID Netclan20241123 saved successfully.
+2024-10-27 11:17:28,095 - INFO - Article with URL_ID Netclan20241124 saved successfully.
+2024-10-27 11:17:33,694 - INFO - Article with URL_ID Netclan20241125 saved successfully.
+2024-10-27 11:17:38,682 - INFO - Article with URL_ID Netclan20241126 saved successfully.
+2024-10-27 11:17:43,977 - INFO - Article with URL_ID Netclan20241127 saved successfully.
+2024-10-27 11:17:46,277 - ERROR - Attempt 1 failed for URL_ID Netclan20241128. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:17:49,499 - INFO - Article with URL_ID Netclan20241128 saved successfully.
+2024-10-27 11:17:54,482 - INFO - Article with URL_ID Netclan20241129 saved successfully.
+2024-10-27 11:17:59,803 - INFO - Article with URL_ID Netclan20241130 saved successfully.
+2024-10-27 11:18:05,738 - INFO - Article with URL_ID Netclan20241131 saved successfully.
+2024-10-27 11:18:10,677 - INFO - Article with URL_ID Netclan20241132 saved successfully.
+2024-10-27 11:18:15,875 - INFO - Article with URL_ID Netclan20241133 saved successfully.
+2024-10-27 11:18:21,230 - INFO - Article with URL_ID Netclan20241134 saved successfully.
+2024-10-27 11:18:26,154 - INFO - Article with URL_ID Netclan20241135 saved successfully.
+2024-10-27 11:18:28,455 - ERROR - Attempt 1 failed for URL_ID Netclan20241136. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:18:31,425 - INFO - Article with URL_ID Netclan20241136 saved successfully.
+2024-10-27 11:18:36,483 - INFO - Article with URL_ID Netclan20241137 saved successfully.
+2024-10-27 11:18:41,723 - INFO - Article with URL_ID Netclan20241138 saved successfully.
+2024-10-27 11:18:47,108 - INFO - Article with URL_ID Netclan20241139 saved successfully.
+2024-10-27 11:18:52,254 - INFO - Article with URL_ID Netclan20241140 saved successfully.
+2024-10-27 11:18:57,162 - INFO - Article with URL_ID Netclan20241141 saved successfully.
+2024-10-27 11:19:02,788 - INFO - Article with URL_ID Netclan20241142 saved successfully.
+2024-10-27 11:19:05,068 - ERROR - Attempt 1 failed for URL_ID Netclan20241143. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:19:05,468 - ERROR - Attempt 2 failed for URL_ID Netclan20241143. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:19:08,469 - INFO - Article with URL_ID Netclan20241143 saved successfully.
+2024-10-27 11:19:14,056 - INFO - Article with URL_ID Netclan20241144 saved successfully.
+2024-10-27 11:19:19,538 - INFO - Article with URL_ID Netclan20241145 saved successfully.
+2024-10-27 11:19:24,349 - INFO - Article with URL_ID Netclan20241146 saved successfully.
+2024-10-27 11:19:29,568 - INFO - Article with URL_ID Netclan20241147 saved successfully.
+2024-10-27 11:19:34,281 - INFO - Article with URL_ID Netclan20241148 saved successfully.
+2024-10-27 11:19:39,101 - INFO - Article with URL_ID Netclan20241149 saved successfully.
+2024-10-27 11:19:41,414 - ERROR - Attempt 1 failed for URL_ID Netclan20241150. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:19:44,179 - INFO - Article with URL_ID Netclan20241150 saved successfully.
+2024-10-27 11:19:49,492 - INFO - Article with URL_ID Netclan20241151 saved successfully.
+2024-10-27 11:19:54,830 - INFO - Article with URL_ID Netclan20241152 saved successfully.
+2024-10-27 11:20:00,098 - INFO - Article with URL_ID Netclan20241153 saved successfully.
+2024-10-27 11:20:05,189 - INFO - Article with URL_ID Netclan20241154 saved successfully.
+2024-10-27 11:20:07,577 - ERROR - Attempt 1 failed for URL_ID Netclan20241155. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:20:07,865 - ERROR - Attempt 2 failed for URL_ID Netclan20241155. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:20:11,293 - INFO - Article with URL_ID Netclan20241155 saved successfully.
+2024-10-27 11:20:16,326 - INFO - Article with URL_ID Netclan20241156 saved successfully.
+2024-10-27 11:20:21,749 - INFO - Article with URL_ID Netclan20241157 saved successfully.
+2024-10-27 11:20:27,247 - INFO - Article with URL_ID Netclan20241158 saved successfully.
+2024-10-27 11:20:32,316 - INFO - Article with URL_ID Netclan20241159 saved successfully.
+2024-10-27 11:20:37,492 - INFO - Article with URL_ID Netclan20241160 saved successfully.
+2024-10-27 11:20:42,423 - INFO - Article with URL_ID Netclan20241161 saved successfully.
+2024-10-27 11:20:44,710 - ERROR - Attempt 1 failed for URL_ID Netclan20241162. Error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-10-27 11:20:48,227 - INFO - Article with URL_ID Netclan20241162 saved successfully.
+2024-10-27 11:20:53,130 - INFO - Article with URL_ID Netclan20241163 saved successfully.
