@@ -1,8 +1,8 @@
-# Text Analysis Project
+# Sentiment Analysis Project
 
 ## Overview
 
-This project performs text analysis on articles extracted from provided URLs. It retrieves the article's title and content, cleans and processes the text, and calculates various analytical metrics to provide insights into the writing style and readability of the content.
+This project performs text analysis on articles extracted from provided URLs(through APIs). It retrieves the article's title and content, cleans and processes the text, and calculates various analytical metrics to provide insights into the writing style, sentiments and readability of the content.
 
 ## Technologies Used
 
