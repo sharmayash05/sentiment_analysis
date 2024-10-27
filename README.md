@@ -65,11 +65,6 @@ This project performs text analysis on articles extracted from provided URLs. It
 1. Prepare your input Excel file (`Input.xlsx`) with a column named `URL_ID` and another named `URL` containing the URLs of the articles you want to analyze.
 2. Place your stop words and sentiment dictionaries in the appropriate directories.
 3. Run the script:
-
-   ```bash
-   python your_script_name.py
-   ```
-
 4. The results will be saved in `Output Data Structure.xlsx`, and individual articles will be saved in the `extracted_txt_folder`.
 
 ## Analysis Metrics
@@ -94,9 +89,6 @@ The following metrics are calculated for each article:
 
 The script logs the process in `crawler.log`, which records successful and failed attempts to retrieve articles.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
